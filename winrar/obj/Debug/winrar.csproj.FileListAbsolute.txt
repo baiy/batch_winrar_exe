@@ -1,0 +1,8 @@
+D:\net\winrar\winrar\obj\Debug\winrar.Form1.resources
+D:\net\winrar\winrar\obj\Debug\winrar.Form2.resources
+D:\net\winrar\winrar\obj\Debug\winrar.Properties.Resources.resources
+D:\net\winrar\winrar\obj\Debug\winrar.csproj.GenerateResource.Cache
+D:\net\winrar\winrar\bin\Debug\baiy程序集.exe
+D:\net\winrar\winrar\bin\Debug\baiy程序集.pdb
+D:\net\winrar\winrar\obj\Debug\baiy程序集.exe
+D:\net\winrar\winrar\obj\Debug\baiy程序集.pdb
